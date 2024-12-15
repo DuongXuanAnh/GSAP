@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+
+.div1,
+.div2 {
+  height: 100vh;
+}
+
+.div1 {
+  background-color: pink;
+}
+
+.div2 {
+  background-color: salmon;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
+
+.square2 {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  margin-top: 100px;
+}
